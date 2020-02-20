@@ -1,1 +1,1 @@
-print("Hey Chesie! My day has been great! I ate mochi donut for lunch today :) How about yours?")
+print("I had chocolate pies for lunch today! What are you gonna do after class?")
