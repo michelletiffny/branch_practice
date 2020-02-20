@@ -7,7 +7,6 @@ These are a few of my favorite things:
 - Gardenias
 - Flour
 - Raindrops on roses
-- Whiskers on puppies
 - Whiskers on boxplots!!
 - Bright copper kettles
 - Warm woolen mittens
@@ -15,3 +14,5 @@ These are a few of my favorite things:
 - Getting sleep
 - Coffee
 - Tea
+
+Hi, Chesie! It's lovely to see you today! Thank you for the chocolate!
